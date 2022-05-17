@@ -55,36 +55,13 @@
     align-items: center;
     position: absolute;
     font-size: 15px;
-    font-weight: 550;    background-color: #C4C4C4;
+    font-weight: 550;    
+    background-color: #c6c6c6;
     border-radius: 8px;
-    color: rgba(255, 255, 255);
+    color: rgba(0, 5, 255);
     padding-top: 2px;
     padding-right: 250px;
     padding-bottom: 5px;
     padding-left: 10px;
     line-height: 22px;
 }
-/*
-.logoMarca {
-    background-color: #ffffff;
-
-}
-.logoMarcaLogo {
-
-    font-size: 25px;
-    font-weight: bold;
-    font-style: italic;
-    margin-top: 10px;
-    padding: 1px;
-    background-color: aquamarine;
-    position: absolute;
-    margin-left: 23%;
-
-}
-
-.campoDePesquisa {
-    position: absolute;
-    padding:10px;
-    width: 25%;
-    box-sizing: border-box;
-} */
